@@ -4,7 +4,6 @@
 * Alexander_Cushing@student.uml.edu
 * Copyright (c) UMass Lowell 2015
 * Created on September 15, 2015, 4:31 PM
-******USING TYLER BAINBRIDGES CODE FROM ASSIGNMENT 3******
 * last edited 10/11 @ 1:22 PM
 */
 #ifndef ELEMENT_H
